@@ -1,0 +1,104 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "91ffb01c",
+        "position_vb": "9af848eb",
+        "blend_vb": "313933a0",
+        "texcoord_vb": "496a781d",
+        "ib": "5c0240db",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6ea0023c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b54f2a3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "2899edd0"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "20890a00"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "45b2509c",
+        "position_vb": "1c9533eb",
+        "blend_vb": "137cbdbe",
+        "texcoord_vb": "a33e8b5e",
+        "ib": "4816de84",
+        "object_indexes": [
+            0,
+            56634
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b37c3b4e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7c24acc9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ccca3b8e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "19226ead"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b37c3b4e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7c24acc9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ccca3b8e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "19226ead"
+                ]
+            ]
+        ]
+    }
+]

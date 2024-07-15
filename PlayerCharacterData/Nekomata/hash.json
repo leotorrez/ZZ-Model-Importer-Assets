@@ -1,0 +1,143 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a00df230",
+        "position_vb": "35439aa6",
+        "blend_vb": "f16498bf",
+        "texcoord_vb": "9ada013d",
+        "ib": "da11fd85",
+        "object_indexes": [
+            0,
+            9156
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "25f3ae9b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "548c7f7d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4ca5efc6"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "799eb07d"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d3f67c0d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fc53fc6f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f26828bd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ecaef71c"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "0c01e6a5",
+        "position_vb": "2c317dda",
+        "blend_vb": "d73bc96f",
+        "texcoord_vb": "b5a4c084",
+        "ib": "26a487ff",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d3f67c0d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fc53fc6f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f26828bd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ecaef71c"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Swords",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "99132d05",
+        "position_vb": "6abb714e",
+        "blend_vb": "f5efd8b1",
+        "texcoord_vb": "70f4875e",
+        "ib": "74688145",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d3f67c0d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fc53fc6f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f26828bd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ecaef71c"
+                ]
+            ]
+        ]
+    }
+]
