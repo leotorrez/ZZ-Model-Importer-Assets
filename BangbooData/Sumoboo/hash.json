@@ -1,0 +1,36 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d0efedea",
+        "position_vb": "d0f36252",
+        "blend_vb": "dfc6cb14",
+        "texcoord_vb": "86c65451",
+        "ib": "4ca2105a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6070b7e3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7f873230"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "94eb3315"
+                ]
+            ]
+        ]
+    }
+]

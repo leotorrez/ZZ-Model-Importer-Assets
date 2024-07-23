@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "4c6e2aa5",
+        "position_vb": "66a2bfad",
+        "blend_vb": "a104c5d7",
+        "texcoord_vb": "9abbc4d8",
+        "ib": "2e52372e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "768ff56e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "3febdef1"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f9450272"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fc037429"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Antenna",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9c68597a",
+        "position_vb": "061fa22f",
+        "blend_vb": "d4ded674",
+        "texcoord_vb": "785cd687",
+        "ib": "2df24e11",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "768ff56e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "3febdef1"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f9450272"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fc037429"
+                ]
+            ]
+        ]
+    }
+]
