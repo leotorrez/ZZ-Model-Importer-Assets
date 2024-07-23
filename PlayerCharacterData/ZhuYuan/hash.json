@@ -1,0 +1,221 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a3091843",
+        "position_vb": "d140d2e7",
+        "blend_vb": "9d35aee2",
+        "texcoord_vb": "f3c092c5",
+        "ib": "9821017e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7f823598"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4ac1defe"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d4ee59c7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "12a407b1"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "291f7f5a",
+        "position_vb": "f3569f8d",
+        "blend_vb": "5e942526",
+        "texcoord_vb": "160872c0",
+        "ib": "a4aeb1d5",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c88e7660"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a396c53a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "13a38449"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b4e20235"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Extras",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "52e3c65f",
+        "position_vb": "5f445c20",
+        "blend_vb": "0f5035dd",
+        "texcoord_vb": "ac21fba4",
+        "ib": "fcac8411",
+        "object_indexes": [
+            0,
+            204
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7f823598"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4ac1defe"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d4ee59c7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "12a407b1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a33b25e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fb35b7e9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e30f025b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "58d5c840"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "ShoulderAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "dd91b126",
+        "position_vb": "d55c7763",
+        "blend_vb": "e6fca033",
+        "texcoord_vb": "1c68a02f",
+        "ib": "5e717358",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a33b25e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fb35b7e9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e30f025b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "58d5c840"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "HipAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "82889576",
+        "position_vb": "45d265c0",
+        "blend_vb": "9a268159",
+        "texcoord_vb": "75c5e659",
+        "ib": "a63028ae",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a33b25e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fb35b7e9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e30f025b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "58d5c840"
+                ]
+            ]
+        ]
+    }
+]
