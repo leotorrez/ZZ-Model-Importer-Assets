@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "Weapon",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "14ee18a1",
+        "position_vb": "0e6ed776",
+        "blend_vb": "6500eb53",
+        "texcoord_vb": "7656b4a8",
+        "ib": "569f47ac",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e9e610cd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "2dc579ff"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1cee434f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "65b44fab"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hinge",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "a063d963",
+        "position_vb": "4b5ecba8",
+        "blend_vb": "4afdcca5",
+        "texcoord_vb": "19b470ab",
+        "ib": "2747bdd1",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e9e610cd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "2dc579ff"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1cee434f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "65b44fab"
+                ]
+            ]
+        ]
+    }
+]
