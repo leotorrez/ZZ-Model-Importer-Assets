@@ -1,0 +1,10 @@
+byte offset: 0
+first index: 9276
+index count: 12
+topology: trianglelist
+format: DXGI_FORMAT_R16_UINT
+
+3834 3835 3836
+3834 3836 3837
+3838 3839 3840
+3838 3840 3841
