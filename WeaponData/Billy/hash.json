@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "LeftGun",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ccd59cb9",
+        "position_vb": "657edd1c",
+        "blend_vb": "213859fc",
+        "texcoord_vb": "ff4396e8",
+        "ib": "1fd6dbf3",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0878a96c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7d670ca3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e5da3606"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8481c740"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "RightGun",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ccd59cb9",
+        "position_vb": "5b305a7b",
+        "blend_vb": "213859fc",
+        "texcoord_vb": "3c067401",
+        "ib": "9f671d6b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0878a96c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7d670ca3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e5da3606"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "8481c740"
+                ]
+            ]
+        ]
+    }
+]
