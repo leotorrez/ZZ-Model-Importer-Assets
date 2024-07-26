@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Weapon",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "fa346a40",
+        "position_vb": "193b9ea3",
+        "blend_vb": "2906a23f",
+        "texcoord_vb": "65b52652",
+        "ib": "a21ac290",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f84dcfe3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "3393ea60"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7f7d01f4"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb11caf5"
+                ]
+            ]
+        ]
+    }
+]
