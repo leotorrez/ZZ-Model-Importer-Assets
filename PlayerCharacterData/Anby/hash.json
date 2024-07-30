@@ -1,104 +1,160 @@
 [
-    {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "91ffb01c",
-        "position_vb": "9af848eb",
-        "blend_vb": "313933a0",
-        "texcoord_vb": "496a781d",
-        "ib": "5c0240db",
-        "object_indexes": [
-            0
+  {
+    "component_name": "Hair",
+    "ib": "5c0240db",
+    "draw_vb": "91ffb01c",
+    "texcoord_vb": "496a781d",
+    "position_vb": "9af848eb",
+    "blend_vb": "313933a0",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "7c7f96d2",
+          "6ea0023c"
         ],
-        "object_classifications": [
-            "A"
+        [
+          "NormalMap",
+          ".dds",
+          "3101f0da",
+          "20890a00"
         ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "6ea0023c"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "b54f2a3d"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "2899edd0"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "20890a00"
-                ]
-            ]
+        [
+          "LightMap",
+          ".dds",
+          "9ceea795",
+          "b54f2a3d"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "f739187c",
+          "2899edd0"
         ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "45b2509c",
-        "position_vb": "1c9533eb",
-        "blend_vb": "137cbdbe",
-        "texcoord_vb": "a33e8b5e",
-        "ib": "4816de84",
+      ]
+    ],
+    "lods": [
+      {
+        "ib": "4b85702e",
+        "draw_vb": "ab392258",
+        "texcoord_vb": "934b22c5",
+        "position_vb": "545503f8",
+        "blend_vb": "c7b4e42f",
         "object_indexes": [
-            0,
-            56634
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b37c3b4e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "7c24acc9"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "ccca3b8e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "19226ead"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b37c3b4e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "7c24acc9"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "ccca3b8e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "19226ead"
-                ]
-            ]
+          0
         ]
-    }
+      },
+      {
+        "ib": "f7e23cf6",
+        "draw_vb": "54929e2a",
+        "texcoord_vb": "5ad03196",
+        "position_vb": "be18f524",
+        "blend_vb": "df7273fa",
+        "object_indexes": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "component_name": "Body",
+    "ib": "4816de84",
+    "draw_vb": "45b2509c",
+    "texcoord_vb": "a33e8b5e",
+    "position_vb": "1c9533eb",
+    "blend_vb": "137cbdbe",
+    "object_indexes": [
+      0,
+      56634
+    ],
+    "object_classifications": [
+      "A",
+      "B"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "8bd7966f",
+          "b37c3b4e"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "6346d69d",
+          "19226ead"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "9cddbf1e",
+          "7c24acc9"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "1115f163",
+          "ccca3b8e"
+        ]
+      ],
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "8bd7966f",
+          "b37c3b4e"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "6346d69d",
+          "19226ead"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "9cddbf1e",
+          "7c24acc9"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "1115f163",
+          "ccca3b8e"
+        ]
+      ]
+    ],
+    "lods": [
+      {
+        "ib": "6fe95b4a",
+        "draw_vb": "100a7af9",
+        "texcoord_vb": "72baea0e",
+        "position_vb": "9dab54e9",
+        "blend_vb": "f99c0a92",
+        "object_indexes": [
+          0,
+          34074
+        ]
+      },
+      {
+        "ib": "f125aeae",
+        "draw_vb": "2faeef97",
+        "texcoord_vb": "d14bda39",
+        "position_vb": "9256a93e",
+        "blend_vb": "d634cc34",
+        "object_indexes": [
+          0,
+          9603
+        ]
+      }
+    ]
+  }
 ]
