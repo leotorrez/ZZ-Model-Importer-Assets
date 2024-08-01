@@ -1,0 +1,80 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "3642f351",
+        "position_vb": "8594fe50",
+        "blend_vb": "43d94145",
+        "texcoord_vb": "f767c336",
+        "ib": "7765cd85",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6dee1ef4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "16a5a408"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8cde49ab"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "266ccf78"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Helmet",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "d458677a",
+        "position_vb": "9212188d",
+        "blend_vb": "9a037a26",
+        "texcoord_vb": "529c1ed6",
+        "ib": "7adf7c1e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6dee1ef4"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "16a5a408"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8cde49ab"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "266ccf78"
+                ]
+            ]
+        ]
+    }
+]
