@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d22708d2",
+        "position_vb": "a496bc3d",
+        "blend_vb": "66579ab2",
+        "texcoord_vb": "493780f1",
+        "ib": "2b336639",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "3ade8146"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a43db9dc"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "13841f9d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "107643a5"
+                ]
+            ]
+        ]
+    }
+]

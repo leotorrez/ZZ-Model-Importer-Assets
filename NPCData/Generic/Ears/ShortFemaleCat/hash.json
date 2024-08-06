@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Ears",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "b5fbb874",
+        "position_vb": "a146266c",
+        "blend_vb": "2caf9515",
+        "texcoord_vb": "ccc6800c",
+        "ib": "c7e9ea05",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "23fc1670"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7d09eb77"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dff521e2"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "77ed00ad"
+                ]
+            ]
+        ]
+    }
+]

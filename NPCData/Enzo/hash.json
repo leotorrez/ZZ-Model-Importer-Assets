@@ -1,0 +1,143 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "8f404be8",
+        "position_vb": "3502a2b0",
+        "blend_vb": "57767914",
+        "texcoord_vb": "76c6b11e",
+        "ib": "1ad68182",
+        "object_indexes": [
+            0,
+            47187
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b51d533e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a72350c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6f1228dc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ab24c0a8"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b51d533e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a72350c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6f1228dc"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ab24c0a8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hammer",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "c1d9849c",
+        "position_vb": "2a2889a9",
+        "blend_vb": "6c4c88b1",
+        "texcoord_vb": "8c2e52a6",
+        "ib": "df42e7da",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4f60450b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a1821896"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0e1947d8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "566de394"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Pipe",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "3d83f929",
+        "position_vb": "a7e27be8",
+        "blend_vb": "5857ac6d",
+        "texcoord_vb": "b0aedffb",
+        "ib": "21d2151d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4f60450b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a1821896"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0e1947d8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "566de394"
+                ]
+            ]
+        ]
+    }
+]

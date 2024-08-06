@@ -1,0 +1,41 @@
+[
+    {
+        "component_name": "Tail",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5fd40aab",
+        "position_vb": "fb2967c7",
+        "blend_vb": "a3d467e8",
+        "texcoord_vb": "cb896265",
+        "ib": "8ecf8424",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b38bd9a3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "16e2a0a2"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92ace1a8"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "32b8737f"
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b2a5929a",
+        "position_vb": "755beffb",
+        "blend_vb": "73525cc5",
+        "texcoord_vb": "846be1eb",
+        "ib": "3c723008",
+        "object_indexes": [
+            0,
+            37395,
+            41295
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "00d168c7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7354782e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "70fc24af"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "951a55e7"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "00d168c7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7354782e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "70fc24af"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "951a55e7"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "00d168c7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "7354782e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "70fc24af"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "951a55e7"
+                ]
+            ]
+        ]
+    }
+]
