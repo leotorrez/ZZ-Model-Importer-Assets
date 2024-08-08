@@ -1,119 +1,194 @@
 [
-    {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "d345e472",
-        "position_vb": "7e7eee0d",
-        "blend_vb": "8d999156",
-        "texcoord_vb": "2cf242f4",
-        "ib": "5a839fb2",
-        "object_indexes": [
-            0
+  {
+    "component_name": "Hair",
+    "ib": "5a839fb2",
+    "draw_vb": "d345e472",
+    "texcoord_vb": "2cf242f4",
+    "position_vb": "7e7eee0d",
+    "blend_vb": "8d999156",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "651e96f8",
+          "60526444"
         ],
-        "object_classifications": [
-            "A"
+        [
+          "NormalMap",
+          ".dds",
+          "ab8956c8",
+          "4a68ef99"
         ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "60526444"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "929aca42"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "23b4c60d"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "4a68ef99"
-                ]
-            ]
+        [
+          "LightMap",
+          ".dds",
+          "edff2372",
+          "929aca42"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "1b88e01e",
+          "23b4c60d"
         ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "2eb162ef",
-        "position_vb": "5dc40184",
-        "blend_vb": "aa71e514",
-        "texcoord_vb": "4c6b7bda",
-        "ib": "e74620b5",
+      ]
+    ],
+    "lods": [
+      {
+        "ib": "65eec31a",
+        "draw_vb": "4c2a86e5",
+        "texcoord_vb": "f2a5c3e4",
+        "position_vb": "b8dc6e56",
+        "blend_vb": "94745258",
         "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "af9d845a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "75e05cdc"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "50a0faea"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "289f4c58"
-                ]
-            ]
+          0
         ]
-    },
-    {
-        "component_name": "Bear",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "1a7ee1b5",
-        "position_vb": "4e1c9e44",
-        "blend_vb": "6ffea6f6",
-        "texcoord_vb": "21987873",
-        "ib": "5f803336",
+      },
+      {
+        "ib": "dc78239c",
+        "draw_vb": "b508848a",
+        "texcoord_vb": "dcc4865b",
+        "position_vb": "1ae54d07",
+        "blend_vb": "16fc9732",
         "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "af9d845a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "75e05cdc"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "50a0faea"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "289f4c58"
-                ]
-            ]
+          0
         ]
-    }
+      }
+    ]
+  },
+  {
+    "component_name": "Bear",
+    "ib": "5f803336",
+    "draw_vb": "1a7ee1b5",
+    "texcoord_vb": "21987873",
+    "position_vb": "4e1c9e44",
+    "blend_vb": "6ffea6f6",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "681f5162",
+          "af9d845a"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "640141d4",
+          "289f4c58"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "af7eda82",
+          "75e05cdc"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "9dc9c0f6",
+          "50a0faea"
+        ]
+      ]
+    ],
+    "lods": [
+      {
+        "ib": "ba93f753",
+        "draw_vb": "5c88d286",
+        "texcoord_vb": "29bade24",
+        "position_vb": "de29450c",
+        "blend_vb": "4d58384d",
+        "object_indexes": [
+          0
+        ]
+      },
+      {
+        "ib": "2ab4ed6c",
+        "draw_vb": "ccb58037",
+        "texcoord_vb": "727e3743",
+        "position_vb": "add0c6cb",
+        "blend_vb": "4e19ad40",
+        "object_indexes": [
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "component_name": "Body",
+    "ib": "e74620b5",
+    "draw_vb": "2eb162ef",
+    "texcoord_vb": "4c6b7bda",
+    "position_vb": "5dc40184",
+    "blend_vb": "aa71e514",
+    "object_indexes": [
+      0
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "681f5162",
+          "af9d845a"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "640141d4",
+          "289f4c58"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "af7eda82",
+          "75e05cdc"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "9dc9c0f6",
+          "50a0faea"
+        ]
+      ]
+    ],
+    "lods": [
+      {
+        "ib": "91d59870",
+        "draw_vb": "cc31e4cf",
+        "texcoord_vb": "21162f93",
+        "position_vb": "8888ab24",
+        "blend_vb": "35e4828f",
+        "object_indexes": [
+          0
+        ]
+      },
+      {
+        "ib": "bb616c65",
+        "draw_vb": "ddeec9b7",
+        "texcoord_vb": "77523617",
+        "position_vb": "9a7dc2c7",
+        "blend_vb": "72405f18",
+        "object_indexes": [
+          0
+        ]
+      }
+    ]
+  }
 ]
