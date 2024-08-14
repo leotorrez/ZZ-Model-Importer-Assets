@@ -29,11 +29,6 @@
                     "LightMap",
                     ".dds",
                     "1dfd9e16"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "239d5744"
                 ]
             ]
         ]
@@ -62,6 +57,11 @@
                     "f86ffe2c"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "8cf23419"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "80855e0f"
@@ -70,11 +70,6 @@
                     "MaterialMap",
                     ".dds",
                     "95cabef3"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "8cf23419"
                 ]
             ],
             [
@@ -84,6 +79,11 @@
                     "f86ffe2c"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "8cf23419"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "80855e0f"
@@ -92,17 +92,12 @@
                     "MaterialMap",
                     ".dds",
                     "95cabef3"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "8cf23419"
                 ]
             ]
         ]
     },
     {
-        "component_name": "Bangboo",
+        "component_name": "Amillion",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "bb7fffe9",
         "position_vb": "176bf3d7",
@@ -123,6 +118,11 @@
                     "f86ffe2c"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "8cf23419"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "80855e0f"
@@ -131,11 +131,6 @@
                     "MaterialMap",
                     ".dds",
                     "95cabef3"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "8cf23419"
                 ]
             ]
         ]

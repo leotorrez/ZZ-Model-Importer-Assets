@@ -2,38 +2,62 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "6a52010a",
-        "position_vb": "b6e5374d",
-        "blend_vb": "d196bd5c",
-        "texcoord_vb": "dae0117f",
-        "ib": "33f6d1f2",
+        "draw_vb": "7b43d317",
+        "position_vb": "dd08951b",
+        "blend_vb": "6e7650bc",
+        "texcoord_vb": "0643440c",
+        "ib": "3cacba0a",
         "object_indexes": [
-            0
+            0,
+            24648
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "d1bd8250"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "434471a2"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "b4841a39"
+                    "3212a0ca"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "2be10855"
+                    "2910fbd0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6e3ac847"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4a77fd3b"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "3212a0ca"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "2910fbd0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6e3ac847"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4a77fd3b"
                 ]
             ]
         ]
@@ -41,11 +65,11 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "b1f382cd",
-        "position_vb": "dd421c3a",
-        "blend_vb": "0287b8fb",
-        "texcoord_vb": "00487185",
-        "ib": "d915de65",
+        "draw_vb": "7be61bce",
+        "position_vb": "ac54012f",
+        "blend_vb": "88a6f633",
+        "texcoord_vb": "4cbe7fbe",
+        "ib": "195857d8",
         "object_indexes": [
             0
         ],
@@ -57,28 +81,28 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "8a2ea47b"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "603e2806"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "08f7d19b"
+                    "1fa7e18e"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "9c8c98d1"
+                    "542c6b04"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "35c2a022"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "41054bb6"
                 ]
             ]
         ]
     },
     {
-        "component_name": "Extra",
+        "component_name": "Bottle",
         "root_vs": "9684c4091fc9e35a",
         "draw_vb": "fca2b042",
         "position_vb": "24282218",
@@ -96,22 +120,22 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "8a2ea47b"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "603e2806"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "08f7d19b"
+                    "1fa7e18e"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "9c8c98d1"
+                    "542c6b04"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "35c2a022"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "41054bb6"
                 ]
             ]
         ]
