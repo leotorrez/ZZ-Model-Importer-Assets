@@ -5,7 +5,7 @@
         "draw_vb": "91ffb01c",
         "position_vb": "9af848eb",
         "blend_vb": "313933a0",
-        "texcoord_vb": "496a781d",
+        "texcoord_vb": "39538886",
         "ib": "5c0240db",
         "object_indexes": [
             0
@@ -21,19 +21,14 @@
                     "6ea0023c"
                 ],
                 [
-                    "LightMap",
-                    ".dds",
-                    "b54f2a3d"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "2899edd0"
-                ],
-                [
                     "NormalMap",
                     ".dds",
                     "20890a00"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b54f2a3d"
                 ]
             ]
         ]
@@ -62,6 +57,11 @@
                     "b37c3b4e"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "19226ead"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "7c24acc9"
@@ -70,11 +70,6 @@
                     "MaterialMap",
                     ".dds",
                     "ccca3b8e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "19226ead"
                 ]
             ],
             [
@@ -84,6 +79,11 @@
                     "b37c3b4e"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "19226ead"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "7c24acc9"
@@ -92,11 +92,6 @@
                     "MaterialMap",
                     ".dds",
                     "ccca3b8e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "19226ead"
                 ]
             ]
         ]
