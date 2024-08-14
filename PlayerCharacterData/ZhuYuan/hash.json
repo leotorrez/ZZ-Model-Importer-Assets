@@ -5,7 +5,7 @@
         "draw_vb": "a3091843",
         "position_vb": "d140d2e7",
         "blend_vb": "9d35aee2",
-        "texcoord_vb": "f3c092c5",
+        "texcoord_vb": "fdc045fc",
         "ib": "9821017e",
         "object_indexes": [
             0
@@ -42,10 +42,10 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "291f7f5a",
-        "position_vb": "f3569f8d",
-        "blend_vb": "5e942526",
-        "texcoord_vb": "160872c0",
-        "ib": "a4aeb1d5",
+        "position_vb": "f595d24d",
+        "blend_vb": "01e0c8d9",
+        "texcoord_vb": "cb885260",
+        "ib": "6619364f",
         "object_indexes": [
             0
         ],
@@ -57,22 +57,61 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c88e7660"
+                    "3ef82f41"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "a396c53a"
+                    "7195a311"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "13a38449"
+                    "80ebf536"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "b4e20235"
+                    "10415de8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "ShoulderAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "dd91b126",
+        "position_vb": "d55c7763",
+        "blend_vb": "e6fca033",
+        "texcoord_vb": "1c68a02f",
+        "ib": "5e717358",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a33b25e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fb35b7e9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e30f025b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "58d5c840"
                 ]
             ]
         ]
@@ -116,45 +155,6 @@
                     "12a407b1"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "6a33b25e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "fb35b7e9"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "e30f025b"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "58d5c840"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "ShoulderAmmo",
-        "root_vs": "9684c4091fc9e35a",
-        "draw_vb": "dd91b126",
-        "position_vb": "d55c7763",
-        "blend_vb": "e6fca033",
-        "texcoord_vb": "1c68a02f",
-        "ib": "5e717358",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
             [
                 [
                     "Diffuse",
