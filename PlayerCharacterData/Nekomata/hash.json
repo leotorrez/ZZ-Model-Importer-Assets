@@ -23,6 +23,11 @@
                     "25f3ae9b"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "799eb07d"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "548c7f7d"
@@ -31,33 +36,28 @@
                     "MaterialMap",
                     ".dds",
                     "4ca5efc6"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "799eb07d"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "d3f67c0d"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "fc53fc6f"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "f26828bd"
+                    "207b8e63"
                 ],
                 [
                     "NormalMap",
                     ".dds",
                     "ecaef71c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fc53fc6f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b3286755"
                 ]
             ]
         ]
@@ -66,9 +66,9 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "0c01e6a5",
-        "position_vb": "2c317dda",
+        "position_vb": "eaad1408",
         "blend_vb": "d73bc96f",
-        "texcoord_vb": "b5a4c084",
+        "texcoord_vb": "f589a51f",
         "ib": "26a487ff",
         "object_indexes": [
             0
@@ -81,7 +81,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d3f67c0d"
+                    "207b8e63"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ecaef71c"
                 ],
                 [
                     "LightMap",
@@ -91,23 +96,18 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "f26828bd"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ecaef71c"
+                    "b3286755"
                 ]
             ]
         ]
     },
     {
-        "component_name": "Swords",
+        "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "99132d05",
-        "position_vb": "6abb714e",
+        "position_vb": "3c4015fd",
         "blend_vb": "f5efd8b1",
-        "texcoord_vb": "70f4875e",
+        "texcoord_vb": "2a4f8c9e",
         "ib": "74688145",
         "object_indexes": [
             0
@@ -120,7 +120,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d3f67c0d"
+                    "207b8e63"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ecaef71c"
                 ],
                 [
                     "LightMap",
@@ -130,12 +135,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "f26828bd"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ecaef71c"
+                    "b3286755"
                 ]
             ]
         ]
