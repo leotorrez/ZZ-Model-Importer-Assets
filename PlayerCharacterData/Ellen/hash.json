@@ -2,11 +2,11 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "d59a5fec",
-        "position_vb": "a5448398",
-        "blend_vb": "2f9df031",
-        "texcoord_vb": "9cddb082",
-        "ib": "7f89a2b3",
+        "draw_vb": "77ac5f85",
+        "position_vb": "ba0fe600",
+        "blend_vb": "52188576",
+        "texcoord_vb": "5c33833e",
+        "ib": "d44a8015",
         "object_indexes": [
             0
         ],
@@ -21,6 +21,11 @@
                     "81ccd2e2"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "aaadca31"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "dc9d8b6e"
@@ -29,11 +34,6 @@
                     "MaterialMap",
                     ".dds",
                     "01bb8189"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "aaadca31"
                 ]
             ]
         ]
@@ -41,11 +41,11 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "7bd3f8c2",
-        "position_vb": "89d5fba4",
-        "blend_vb": "4f4a54f0",
-        "texcoord_vb": "26966844",
-        "ib": "a72cfb34",
+        "draw_vb": "cdce1fc2",
+        "position_vb": "b78f3616",
+        "blend_vb": "89589539",
+        "texcoord_vb": "5ac6d5ee",
+        "ib": "e30fae03",
         "object_indexes": [
             0
         ],
@@ -57,7 +57,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "cf5f5fed"
+                    "163e2559"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798c3a51"
                 ],
                 [
                     "LightMap",
@@ -68,11 +73,6 @@
                     "MaterialMap",
                     ".dds",
                     "f4487235"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "798c3a51"
                 ]
             ]
         ]

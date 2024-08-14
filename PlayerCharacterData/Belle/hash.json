@@ -21,6 +21,11 @@
                     "1ce58567"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "89b147ff"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "f1ee2105"
@@ -29,11 +34,6 @@
                     "MaterialMap",
                     ".dds",
                     "24c47ca5"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "89b147ff"
                 ]
             ]
         ]
@@ -43,8 +43,8 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ac1c8f80",
         "position_vb": "d2844c01",
-        "blend_vb": "d7ca821f",
-        "texcoord_vb": "caf95576",
+        "blend_vb": "c92a17d8",
+        "texcoord_vb": "801edbf4",
         "ib": "1817f3ca",
         "object_indexes": [
             0
@@ -60,6 +60,11 @@
                     "d2960560"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "f04f7ab9"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "bf286c84"
@@ -68,11 +73,6 @@
                     "MaterialMap",
                     ".dds",
                     "33f28c6d"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "f04f7ab9"
                 ]
             ]
         ]
