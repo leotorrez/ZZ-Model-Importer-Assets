@@ -21,6 +21,11 @@
                     "61aaace5"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "5817e801"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "3d6eb388"
@@ -29,11 +34,6 @@
                     "MaterialMap",
                     ".dds",
                     "02bfcc69"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "5817e801"
                 ]
             ]
         ]
@@ -60,6 +60,11 @@
                     "7169ec86"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "c8fd1702"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "565aa8be"
@@ -68,11 +73,6 @@
                     "MaterialMap",
                     ".dds",
                     "5a321eae"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "c8fd1702"
                 ]
             ]
         ]
@@ -99,6 +99,11 @@
                     "d947066b"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "72f53876"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "072e6786"
@@ -107,11 +112,6 @@
                     "MaterialMap",
                     ".dds",
                     "4a4ea6dc"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "72f53876"
                 ]
             ]
         ]
@@ -138,6 +138,11 @@
                     "61aaace5"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "5817e801"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "3d6eb388"
@@ -146,11 +151,6 @@
                     "MaterialMap",
                     ".dds",
                     "02bfcc69"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "5817e801"
                 ]
             ]
         ]
