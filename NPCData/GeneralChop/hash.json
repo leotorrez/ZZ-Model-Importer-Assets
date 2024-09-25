@@ -1,0 +1,119 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "2dfdfbec",
+        "position_vb": "04e9503a",
+        "blend_vb": "725a9d78",
+        "texcoord_vb": "5eb0cbdb",
+        "ib": "dc89be16",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d8117661"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "219502a0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "01ad339e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1d0d0e12"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Arms",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "5f066bd0",
+        "position_vb": "1d433237",
+        "blend_vb": "4ad36b9a",
+        "texcoord_vb": "d925ef4a",
+        "ib": "a0465754",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cae1802f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a96e811f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a5d38cec"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "93854aaa"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Mustache",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d13c771a",
+        "position_vb": "6abf476c",
+        "blend_vb": "d55c92c0",
+        "texcoord_vb": "f26011c2",
+        "ib": "2b48577f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d8117661"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "219502a0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "01ad339e"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1d0d0e12"
+                ]
+            ]
+        ]
+    }
+]
