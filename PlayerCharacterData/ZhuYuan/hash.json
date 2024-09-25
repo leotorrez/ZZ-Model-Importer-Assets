@@ -5,7 +5,7 @@
         "draw_vb": "a3091843",
         "position_vb": "d140d2e7",
         "blend_vb": "9d35aee2",
-        "texcoord_vb": "fdc045fc",
+        "texcoord_vb": "f3c092c5",
         "ib": "9821017e",
         "object_indexes": [
             0
@@ -57,22 +57,22 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "3ef82f41"
+                    "a271e894"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "7195a311"
+                    "d81fb56e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "80ebf536"
+                    "d02bc66c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "10415de8"
+                    "3e808ef6"
                 ]
             ]
         ]
