@@ -5,7 +5,7 @@
         "draw_vb": "da8a2564",
         "position_vb": "c4619559",
         "blend_vb": "64697011",
-        "texcoord_vb": "fd1b9c29",
+        "texcoord_vb": "8b6b17f8",
         "ib": "940454ef",
         "object_indexes": [
             0
@@ -42,9 +42,9 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "d28231af",
-        "position_vb": "b2f3e6aa",
+        "position_vb": "ffe8fea7",
         "blend_vb": "764276de",
-        "texcoord_vb": "a0d146b3",
+        "texcoord_vb": "a011f94e",
         "ib": "585da98b",
         "object_indexes": [
             0
