@@ -50,12 +50,12 @@
                     "ecaef71c"
                 ],
                 [
-                    "MaterialMap",
+                    "LightMap",
                     ".dds",
                     "fc53fc6f"
                 ],
                 [
-                    "LightMap",
+                    "MaterialMap",
                     ".dds",
                     "b3286755"
                 ]
