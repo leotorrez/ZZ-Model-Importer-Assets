@@ -5,7 +5,7 @@
         "draw_vb": "9e96a54f",
         "position_vb": "1126fd58",
         "blend_vb": "1bed412f",
-        "texcoord_vb": "d21f32ad",
+        "texcoord_vb": "89d903ba",
         "ib": "89299f56",
         "object_indexes": [
             0,
@@ -65,14 +65,14 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "e5e04f6f",
-        "position_vb": "26ffa186",
-        "blend_vb": "50837a5c",
-        "texcoord_vb": "e536af35",
-        "ib": "0f82a13e",
+        "draw_vb": "f1cba806",
+        "position_vb": "8855c5cf",
+        "blend_vb": "3b80154c",
+        "texcoord_vb": "4bb45448",
+        "ib": "8b240678",
         "object_indexes": [
             0,
-            42885
+            42927
         ],
         "object_classifications": [
             "A",

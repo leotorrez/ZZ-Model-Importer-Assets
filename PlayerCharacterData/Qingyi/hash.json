@@ -5,7 +5,7 @@
         "draw_vb": "7b43d317",
         "position_vb": "dd08951b",
         "blend_vb": "6e7650bc",
-        "texcoord_vb": "0643440c",
+        "texcoord_vb": "53a2b66e",
         "ib": "3cacba0a",
         "object_indexes": [
             0,
@@ -70,45 +70,6 @@
         "blend_vb": "88a6f633",
         "texcoord_vb": "4cbe7fbe",
         "ib": "195857d8",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "1fa7e18e"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "542c6b04"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "35c2a022"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "41054bb6"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Bottle",
-        "root_vs": "9684c4091fc9e35a",
-        "draw_vb": "fca2b042",
-        "position_vb": "24282218",
-        "blend_vb": "807eb474",
-        "texcoord_vb": "1707933f",
-        "ib": "8e8426df",
         "object_indexes": [
             0
         ],
