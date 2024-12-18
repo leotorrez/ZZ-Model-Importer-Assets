@@ -4,7 +4,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "77ac5f85",
         "position_vb": "ba0fe600",
-        "blend_vb": "52188576",
+        "blend_vb": "e91c93e0",
         "texcoord_vb": "a27a8e1a",
         "ib": "d44a8015",
         "object_indexes": [
@@ -23,7 +23,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "aaadca31"
+                    "5c622251"
                 ],
                 [
                     "LightMap",
@@ -62,7 +62,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "798c3a51"
+                    "ec2b9e1c"
                 ],
                 [
                     "LightMap",
