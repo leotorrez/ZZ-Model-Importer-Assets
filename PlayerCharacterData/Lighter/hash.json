@@ -1,6 +1,6 @@
 [
     {
-        "component_name": "Head",
+        "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "bd669b85",
         "position_vb": "037b6287",
@@ -16,14 +16,14 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "d9a12c0a"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "c5d60a1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8185d650"
                 ],
                 [
                     "LightMap",
@@ -42,9 +42,9 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "84ed822e",
-        "position_vb": "0baec6b7",
+        "position_vb": "5e461440",
         "blend_vb": "da216bb6",
-        "texcoord_vb": "710bca71",
+        "texcoord_vb": "25ad7289",
         "ib": "8899e0fd",
         "object_indexes": [
             0
@@ -55,14 +55,14 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "d9a12c0a"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "5ed96bf2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "192dda90"
                 ],
                 [
                     "LightMap",
@@ -78,7 +78,34 @@
         ]
     },
     {
-        "component_name": "Sunglasses",
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "dcc7bb78",
+        "object_indexes": [
+            0,
+            8364
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4524e91a"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Glasses",
         "root_vs": "9684c4091fc9e35a",
         "draw_vb": "62623b11",
         "position_vb": "fc862707",
@@ -96,14 +123,14 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "d9a12c0a"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "5ed96bf2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "192dda90"
                 ],
                 [
                     "LightMap",
@@ -118,14 +145,14 @@
             ],
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "d9a12c0a"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "5ed96bf2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "192dda90"
                 ],
                 [
                     "LightMap",
