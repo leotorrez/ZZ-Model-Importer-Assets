@@ -5,7 +5,7 @@
         "draw_vb": "cc59d8d6",
         "position_vb": "31eda4d5",
         "blend_vb": "3ab9a7a4",
-        "texcoord_vb": "395572dc",
+        "texcoord_vb": "b092c043",
         "ib": "060bc1ad",
         "object_indexes": [
             0
@@ -23,12 +23,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "5817e801"
+                    "9ad1782a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "3d6eb388"
+                    "04d061fe"
                 ],
                 [
                     "MaterialMap",
@@ -41,11 +41,11 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "2a340ed5",
-        "position_vb": "b68056b4",
-        "blend_vb": "a485180e",
-        "texcoord_vb": "949e688a",
-        "ib": "25196b7a",
+        "draw_vb": "25418598",
+        "position_vb": "8c7775ae",
+        "blend_vb": "f2d1a929",
+        "texcoord_vb": "b950fda5",
+        "ib": "6749b6e7",
         "object_indexes": [
             0
         ],
@@ -62,12 +62,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "c8fd1702"
+                    "9f43209f"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "565aa8be"
+                    "814db5bf"
                 ],
                 [
                     "MaterialMap",
@@ -101,7 +101,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "72f53876"
+                    "8c1076d2"
                 ],
                 [
                     "LightMap",
@@ -140,12 +140,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "5817e801"
+                    "9ad1782a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "3d6eb388"
+                    "04d061fe"
                 ],
                 [
                     "MaterialMap",
@@ -153,6 +153,33 @@
                     "02bfcc69"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "7341e07b",
+        "object_indexes": [
+            0,
+            10170
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d14f3284"
+                ]
+            ],
+            []
         ]
     }
 ]
