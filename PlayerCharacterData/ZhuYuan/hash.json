@@ -1,41 +1,29 @@
 [
     {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "a3091843",
-        "position_vb": "d140d2e7",
-        "blend_vb": "9d35aee2",
-        "texcoord_vb": "f3c092c5",
-        "ib": "9821017e",
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f1c241b7",
         "object_indexes": [
-            0
+            0,
+            1056
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "7f823598"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "4ac1defe"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "d4ee59c7"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "12a407b1"
+                    "a1eabb9f"
                 ]
-            ]
+            ],
+            []
         ]
     },
     {
@@ -62,7 +50,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "d81fb56e"
+                    "4bdb158f"
                 ],
                 [
                     "LightMap",
@@ -78,13 +66,13 @@
         ]
     },
     {
-        "component_name": "ShoulderAmmo",
-        "root_vs": "9684c4091fc9e35a",
-        "draw_vb": "dd91b126",
-        "position_vb": "d55c7763",
-        "blend_vb": "e6fca033",
-        "texcoord_vb": "1c68a02f",
-        "ib": "5e717358",
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a3091843",
+        "position_vb": "d140d2e7",
+        "blend_vb": "9d35aee2",
+        "texcoord_vb": "f3c092c5",
+        "ib": "9821017e",
         "object_indexes": [
             0
         ],
@@ -96,28 +84,28 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "6a33b25e"
+                    "7f823598"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "1ac06c59"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "e30f025b"
+                    "d4ee59c7"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "58d5c840"
+                    "12a407b1"
                 ]
             ]
         ]
     },
     {
-        "component_name": "Extras",
+        "component_name": "HipAmmo",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "52e3c65f",
         "position_vb": "5f445c20",
@@ -142,7 +130,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "4ac1defe"
+                    "1ac06c59"
                 ],
                 [
                     "LightMap",
@@ -164,7 +152,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "3584cd94"
                 ],
                 [
                     "LightMap",
@@ -180,7 +168,7 @@
         ]
     },
     {
-        "component_name": "HipAmmo",
+        "component_name": "ShoulderAmmo",
         "root_vs": "9684c4091fc9e35a",
         "draw_vb": "82889576",
         "position_vb": "45d265c0",
@@ -203,7 +191,70 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "3584cd94"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e30f025b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "58d5c840"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Extra",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "52e3c65f",
+        "position_vb": "5f445c20",
+        "blend_vb": "0f5035dd",
+        "texcoord_vb": "ac21fba4",
+        "ib": "fcac8411",
+        "object_indexes": [
+            0,
+            204
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7f823598"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "1ac06c59"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d4ee59c7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "12a407b1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a33b25e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "3584cd94"
                 ],
                 [
                     "LightMap",

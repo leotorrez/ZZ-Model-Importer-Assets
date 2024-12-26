@@ -1,41 +1,29 @@
 [
     {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "d18b1600",
-        "position_vb": "9b358a6b",
-        "blend_vb": "df779976",
-        "texcoord_vb": "a91eeef2",
-        "ib": "35cf83ad",
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "52f5aa74",
         "object_indexes": [
-            0
+            0,
+            9708
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "dc8e244d"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "f51be622"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "d4de9ec1"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "3c256565"
+                    "09981aff"
                 ]
-            ]
+            ],
+            []
         ]
     },
     {
@@ -78,30 +66,42 @@
         ]
     },
     {
-        "component_name": "Face",
-        "root_vs": "",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "52f5aa74",
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d18b1600",
+        "position_vb": "9b358a6b",
+        "blend_vb": "df779976",
+        "texcoord_vb": "a91eeef2",
+        "ib": "35cf83ad",
         "object_indexes": [
-            0,
-            9708
+            0
         ],
         "object_classifications": [
-            "A",
-            "B"
+            "A"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "09981aff"
+                    "dc8e244d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "f51be622"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d4de9ec1"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3c256565"
                 ]
-            ],
-            []
+            ]
         ]
     }
 ]

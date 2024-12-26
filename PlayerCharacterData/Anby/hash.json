@@ -1,36 +1,29 @@
 [
     {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "91ffb01c",
-        "position_vb": "9af848eb",
-        "blend_vb": "313933a0",
-        "texcoord_vb": "496a781d",
-        "ib": "5c0240db",
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "19df8e84",
         "object_indexes": [
-            0
+            0,
+            8442
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "6ea0023c"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "20890a00"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "b54f2a3d"
+                    "2a23f612"
                 ]
-            ]
+            ],
+            []
         ]
     },
     {
@@ -59,7 +52,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "19226ead"
+                    "2f176d06"
                 ],
                 [
                     "LightMap",
@@ -81,7 +74,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "19226ead"
+                    "2f176d06"
                 ],
                 [
                     "LightMap",
@@ -92,6 +85,45 @@
                     "MaterialMap",
                     ".dds",
                     "ccca3b8e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "91ffb01c",
+        "position_vb": "9af848eb",
+        "blend_vb": "313933a0",
+        "texcoord_vb": "496a781d",
+        "ib": "5c0240db",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6ea0023c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "cbebc9e6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b54f2a3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "9151b8fd"
                 ]
             ]
         ]

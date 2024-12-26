@@ -1,15 +1,15 @@
 [
     {
-        "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "9e96a54f",
-        "position_vb": "1126fd58",
-        "blend_vb": "1bed412f",
-        "texcoord_vb": "89d903ba",
-        "ib": "89299f56",
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "4d60568b",
         "object_indexes": [
             0,
-            23127
+            8874
         ],
         "object_classifications": [
             "A",
@@ -20,46 +20,10 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "a87d2822"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "846fab9a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "8eddd041"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "3a38f6f9"
+                    "7459ecf4"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "a87d2822"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "846fab9a"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "8eddd041"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "3a38f6f9"
-                ]
-            ]
+            []
         ]
     },
     {
@@ -88,7 +52,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "1e794b69"
+                    "143daf1c"
                 ],
                 [
                     "LightMap",
@@ -105,12 +69,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "210b3ebf"
+                    "9c7057e8"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "06cb1413"
+                    "f61dc07c"
                 ],
                 [
                     "LightMap",
@@ -121,6 +85,69 @@
                     "MaterialMap",
                     ".dds",
                     "f176398a"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9e96a54f",
+        "position_vb": "1126fd58",
+        "blend_vb": "1bed412f",
+        "texcoord_vb": "89d903ba",
+        "ib": "89299f56",
+        "object_indexes": [
+            0,
+            23127
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a87d2822"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "0f48afe5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8eddd041"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3a38f6f9"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a87d2822"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "0f48afe5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8eddd041"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3a38f6f9"
                 ]
             ]
         ]
