@@ -1,5 +1,32 @@
 [
     {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "37119851",
+        "object_indexes": [
+            0,
+            9528
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ba411d22"
+                ]
+            ],
+            []
+        ]
+    },
+    {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "0c01e6a5",
@@ -22,47 +49,8 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
                     ".dds",
-                    "fc53fc6f"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "b3286755"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Legs",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "99132d05",
-        "position_vb": "3c4015fd",
-        "blend_vb": "f5efd8b1",
-        "texcoord_vb": "2a4f8c9e",
-        "ib": "74688145",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "207b8e63"
-                ],
-                [
-                    "NormalMap",
-                    ".jpg",
-                    "ebac056e"
+                    "a0861fa3"
                 ],
                 [
                     "LightMap",
@@ -102,18 +90,18 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "ebac056e"
+                    ".dds",
+                    "90adbe2a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "548c7f7d"
+                    "0b10f1b1"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "4ca5efc6"
+                    "6347aaef"
                 ]
             ],
             [
@@ -124,8 +112,47 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "ebac056e"
+                    ".dds",
+                    "a0861fa3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fc53fc6f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b3286755"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Legs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "99132d05",
+        "position_vb": "3c4015fd",
+        "blend_vb": "f5efd8b1",
+        "texcoord_vb": "2a4f8c9e",
+        "ib": "74688145",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "207b8e63"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "a0861fa3"
                 ],
                 [
                     "LightMap",

@@ -1,5 +1,71 @@
 [
     {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "1fdaf388",
+        "object_indexes": [
+            0,
+            9258
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5d75fddc"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b581dc0a",
+        "position_vb": "f6c5b9f3",
+        "blend_vb": "46462bd8",
+        "texcoord_vb": "a9d5b70d",
+        "ib": "8d6acf4e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "868709f2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "dfd213d2"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "088718a9"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "a5fdb5e7"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ba59bf09",
@@ -21,6 +87,11 @@
                     "28005a5b"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "97adb9a4"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "1f21c633"
@@ -29,50 +100,6 @@
                     "MaterialMap",
                     ".dds",
                     "473f816d"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "3b4f22ad"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "73c48816",
-        "position_vb": "9581de22",
-        "blend_vb": "1d55bd87",
-        "texcoord_vb": "a012c752",
-        "ib": "054ea752",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "84529dab"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "088718a9"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "a5fdb5e7"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "f43c8025"
                 ]
             ]
         ]
@@ -83,7 +110,7 @@
         "draw_vb": "24ca2d36",
         "position_vb": "19f96193",
         "blend_vb": "d80dc314",
-        "texcoord_vb": "cb22cb95",
+        "texcoord_vb": "2ae08ae7",
         "ib": "b1df5d22",
         "object_indexes": [
             0
@@ -99,6 +126,11 @@
                     "28005a5b"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "97adb9a4"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "1f21c633"
@@ -107,11 +139,6 @@
                     "MaterialMap",
                     ".dds",
                     "473f816d"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "3b4f22ad"
                 ]
             ]
         ]
