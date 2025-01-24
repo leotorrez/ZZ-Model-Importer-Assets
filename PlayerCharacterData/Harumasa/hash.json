@@ -23,7 +23,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "a2b9aad7"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -62,7 +62,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "faad8e2c"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -80,11 +80,11 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "cafffd37",
-        "position_vb": "3fa41462",
-        "blend_vb": "c0b32d17",
-        "texcoord_vb": "95ee1030",
-        "ib": "78bea30d",
+        "draw_vb": "1fb92e46",
+        "position_vb": "0899751e",
+        "blend_vb": "347a0e9d",
+        "texcoord_vb": "e14fbc30",
+        "ib": "79679a10",
         "object_indexes": [
             0
         ],
@@ -96,12 +96,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "ba52ac92"
+                    "49f8aaf6"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "c50472c0"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -111,7 +111,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "cd1e0187"
+                    "6d105f7e"
                 ]
             ]
         ]
@@ -162,17 +162,17 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b321eb39"
+                    "81f189a2"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "9d2c6764"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "53c37792"
+                    "4302efb7"
                 ],
                 [
                     "MaterialMap",
