@@ -4,7 +4,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "13a07361",
         "position_vb": "9b17301d",
-        "blend_vb": "3cd13d03",
+        "blend_vb": "9d35c352",
         "texcoord_vb": "240d8c83",
         "ib": "7a110804",
         "object_indexes": [
@@ -61,7 +61,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "3a8d0dfc"
+                    "c41341b2"
                 ]
             ],
             [],
@@ -74,7 +74,7 @@
         "draw_vb": "8a8dbdc5",
         "position_vb": "97cef448",
         "blend_vb": "bc4d6455",
-        "texcoord_vb": "da86a32e",
+        "texcoord_vb": "1433ee78",
         "ib": "92f33156",
         "object_indexes": [
             0
@@ -87,7 +87,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "2daa2443"
+                    "e634238a"
                 ],
                 [
                     "NormalMap",
@@ -97,12 +97,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b085765e"
+                    "34f0706c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "b53b2e12"
+                    "883a578f"
                 ]
             ]
         ]
@@ -113,7 +113,7 @@
         "draw_vb": "d3c951b9",
         "position_vb": "ee3c305a",
         "blend_vb": "c3c08f85",
-        "texcoord_vb": "f8b92870",
+        "texcoord_vb": "8ba0b335",
         "ib": "53cdac6c",
         "object_indexes": [
             0,
@@ -128,7 +128,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "2daa2443"
+                    "e634238a"
                 ],
                 [
                     "NormalMap",
@@ -138,19 +138,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b085765e"
+                    "34f0706c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "b53b2e12"
+                    "883a578f"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "2daa2443"
+                    "e634238a"
                 ],
                 [
                     "NormalMap",
@@ -160,12 +160,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b085765e"
+                    "34f0706c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "b53b2e12"
+                    "883a578f"
                 ]
             ]
         ]
