@@ -1,6 +1,6 @@
 [
     {
-        "component_name": "Hair",
+        "component_name": "Part1",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "77ac5f85",
         "position_vb": "ba0fe600",
@@ -39,11 +39,11 @@
         ]
     },
     {
-        "component_name": "Body",
+        "component_name": "Part2",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "cdce1fc2",
         "position_vb": "b78f3616",
-        "blend_vb": "89589539",
+        "blend_vb": "ed9cb852",
         "texcoord_vb": "5ac6d5ee",
         "ib": "e30fae03",
         "object_indexes": [
