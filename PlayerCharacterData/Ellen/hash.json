@@ -23,7 +23,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "5c622251"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -43,7 +43,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "cdce1fc2",
         "position_vb": "b78f3616",
-        "blend_vb": "89589539",
+        "blend_vb": "ed9cb852",
         "texcoord_vb": "5ac6d5ee",
         "ib": "e30fae03",
         "object_indexes": [
@@ -62,7 +62,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "ec2b9e1c"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -75,6 +75,33 @@
                     "f4487235"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f6ef8f3a",
+        "object_indexes": [
+            0,
+            9336
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "465a66eb"
+                ]
+            ],
+            []
         ]
     }
 ]
