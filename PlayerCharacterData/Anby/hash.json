@@ -23,7 +23,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "20890a00"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -54,12 +54,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b37c3b4e"
+                    "215ff74d"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "19226ead"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -76,12 +76,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b37c3b4e"
+                    "215ff74d"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "19226ead"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -94,6 +94,33 @@
                     "ccca3b8e"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "19df8e84",
+        "object_indexes": [
+            0,
+            8442
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "05d7b504"
+                ]
+            ],
+            []
         ]
     }
 ]
