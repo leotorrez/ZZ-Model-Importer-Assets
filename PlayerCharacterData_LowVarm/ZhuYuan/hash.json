@@ -1,0 +1,170 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a3091843",
+        "position_vb": "d140d2e7",
+        "blend_vb": "9d35aee2",
+        "texcoord_vb": "f3c092c5",
+        "ib": "9821017e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9b86c2f6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8955095f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "7d884663"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "291f7f5a",
+        "position_vb": "f595d24d",
+        "blend_vb": "01e0c8d9",
+        "texcoord_vb": "cb885260",
+        "ib": "6619364f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "46af14f8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fb385169"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "29e2ebc5"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Extras",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "52e3c65f",
+        "position_vb": "5f445c20",
+        "blend_vb": "0f5035dd",
+        "texcoord_vb": "ac21fba4",
+        "ib": "fcac8411",
+        "object_indexes": [
+            0,
+            204
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "222ae5ee"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "790183b4"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "84842409"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "ShoulderAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "dd91b126",
+        "position_vb": "d55c7763",
+        "blend_vb": "e6fca033",
+        "texcoord_vb": "1c68a02f",
+        "ib": "5e717358",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "HipAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "82889576",
+        "position_vb": "45d265c0",
+        "blend_vb": "9a268159",
+        "texcoord_vb": "75c5e659",
+        "ib": "a63028ae",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f1c241b7",
+        "object_indexes": [
+            0,
+            1056
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "138c7d76"
+                ]
+            ],
+            []
+        ]
+    }
+]

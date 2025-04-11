@@ -1,0 +1,94 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b0625293",
+        "position_vb": "f066913d",
+        "blend_vb": "acd25c98",
+        "texcoord_vb": "b12abbeb",
+        "ib": "8e98ef9a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "984e7896"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c321345c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4ee3c3fe"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5fdaccd2",
+        "position_vb": "e4ae41fd",
+        "blend_vb": "e31a3b5f",
+        "texcoord_vb": "b3c0a13c",
+        "ib": "7f32eeae",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8cffa733"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "2c72b961"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cd507047"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "40cd4182",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cffc4b09"
+                ]
+            ]
+        ]
+    }
+]

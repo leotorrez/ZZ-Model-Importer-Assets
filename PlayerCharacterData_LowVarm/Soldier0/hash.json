@@ -1,0 +1,103 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9a4ae9c7",
+        "position_vb": "7aa2035c",
+        "blend_vb": "d13ddfe1",
+        "texcoord_vb": "c6b7b3b2",
+        "ib": "217ec790",
+        "object_indexes": [
+            0,
+            33762
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8cb4086a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "96a28554"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "ce3e73be"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "36089968",
+        "position_vb": "f1c057e8",
+        "blend_vb": "d4ff3f35",
+        "texcoord_vb": "80d87313",
+        "ib": "53d3f4e5",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0acef326"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "625ad0eb"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "dea3c5a0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f2f539b8",
+        "object_indexes": [
+            0,
+            690,
+            8442
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "692c6d2b"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]

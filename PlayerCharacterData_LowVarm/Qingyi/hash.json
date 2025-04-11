@@ -1,0 +1,121 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "7b43d317",
+        "position_vb": "dd08951b",
+        "blend_vb": "6e7650bc",
+        "texcoord_vb": "53a2b66e",
+        "ib": "3cacba0a",
+        "object_indexes": [
+            0,
+            24648
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a472db9a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "683414c1"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "bfefa200"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "7be61bce",
+        "position_vb": "ac54012f",
+        "blend_vb": "88a6f633",
+        "texcoord_vb": "4cbe7fbe",
+        "ib": "195857d8",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "aa3c1147"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4a484257"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4e561ee5"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Kettle",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "fca2b042",
+        "position_vb": "24282218",
+        "blend_vb": "807eb474",
+        "texcoord_vb": "1707933f",
+        "ib": "8e8426df",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f6e96452",
+        "object_indexes": [
+            0,
+            1458,
+            2586
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a58b5444"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]

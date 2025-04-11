@@ -1,0 +1,191 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5661afc3",
+        "position_vb": "6c733c84",
+        "blend_vb": "a37c7537",
+        "texcoord_vb": "c8810832",
+        "ib": "69ad9d08",
+        "object_indexes": [
+            0,
+            5253
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "753baa45"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "810c0878"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "368f931c"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "da79199a",
+        "position_vb": "246b93e2",
+        "blend_vb": "66948a0f",
+        "texcoord_vb": "f60dbb9e",
+        "ib": "be5f4c7d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f810e7ac"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e89f7814"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "86ca6cfd"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Helmet",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "66cc3370",
+        "position_vb": "637e5139",
+        "blend_vb": "31f19e78",
+        "texcoord_vb": "0d4e37c6",
+        "ib": "a0ed04de",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "919ab7e5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6a8fca92"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "4227db77"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Snout",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "9328313b",
+        "position_vb": "5fb8059e",
+        "blend_vb": "b4cf5b8d",
+        "texcoord_vb": "856c6618",
+        "ib": "272dd7f6",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Belt",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "7e98735e",
+        "position_vb": "90e47227",
+        "blend_vb": "9759ce48",
+        "texcoord_vb": "170cc13e",
+        "ib": "9b6370f6",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "RedCloth",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "fa7b1c96",
+        "position_vb": "2f5719df",
+        "blend_vb": "55decc93",
+        "texcoord_vb": "c789d6f4",
+        "ib": "1fe6e084",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "df3e3965",
+        "object_indexes": [
+            0,
+            6978,
+            8178
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2578d35b"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]

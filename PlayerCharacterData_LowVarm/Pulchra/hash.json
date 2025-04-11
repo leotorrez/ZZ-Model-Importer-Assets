@@ -1,0 +1,171 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "2be39a26",
+        "position_vb": "a74c8d89",
+        "blend_vb": "9381fa0b",
+        "texcoord_vb": "5204f58d",
+        "ib": "bd385763",
+        "object_indexes": [
+            0,
+            39972
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bf7eba0f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "47040200"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "a66a11d0"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "fb0a816a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f475e822"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "64d75415"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Mask",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "992028e7",
+        "position_vb": "eed9f960",
+        "blend_vb": "0db288cb",
+        "texcoord_vb": "0e117b28",
+        "ib": "5b30f4da",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "128c8f2e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e522177c"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "820ded20"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "LegAmmo",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "ec497419",
+        "position_vb": "d82af72e",
+        "blend_vb": "5391a870",
+        "texcoord_vb": "13af1533",
+        "ib": "425a7565",
+        "object_indexes": [
+            0,
+            2358
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cae1373a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a9b0390a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1eda0fc2"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "WristAcc",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "29a6299d",
+        "position_vb": "8329562b",
+        "blend_vb": "55119041",
+        "texcoord_vb": "caa1f21c",
+        "ib": "96cb7dc9",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "62de5837",
+        "object_indexes": [
+            0,
+            9774
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "32f923f1"
+                ]
+            ],
+            []
+        ]
+    }
+]
