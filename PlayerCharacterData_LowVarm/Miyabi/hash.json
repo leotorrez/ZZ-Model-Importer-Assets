@@ -18,7 +18,7 @@
         "texture_hashes": [
             [
                 [
-                    "DiffuseMap",
+                    "Diffuse",
                     ".dds",
                     "ed6b94f7"
                 ],
@@ -71,7 +71,7 @@
         "texture_hashes": [
             [
                 [
-                    "DiffuseMap",
+                    "Diffuse",
                     ".dds",
                     "1a3644e7"
                 ],
@@ -109,7 +109,7 @@
         "texture_hashes": [
             [
                 [
-                    "DiffuseMap",
+                    "Diffuse",
                     ".dds",
                     "92599e94"
                 ]
