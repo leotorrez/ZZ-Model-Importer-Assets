@@ -1,0 +1,97 @@
+[
+    {
+        "component_name": "Middle",
+        "root_vs": "",
+        "draw_vb": "b05d8435",
+        "position_vb": "b05d8435",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "2787730d",
+        "object_indexes": [
+            0,
+            603
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ac01ff27"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "eab0f970"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d2a9a88e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8dac91c6"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "15010d03"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ed932aab"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Near",
+        "root_vs": "",
+        "draw_vb": "df67acc4",
+        "position_vb": "df67acc4",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "55b041f9",
+        "object_indexes": [
+            0,
+            840
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Far",
+        "root_vs": "",
+        "draw_vb": "d8beef90",
+        "position_vb": "d8beef90",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "d2e56a2b",
+        "object_indexes": [
+            0,
+            273
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    }
+]

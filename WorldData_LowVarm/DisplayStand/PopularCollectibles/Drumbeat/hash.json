@@ -1,0 +1,72 @@
+[
+    {
+        "component_name": "Middle",
+        "root_vs": "",
+        "draw_vb": "569cf3ce",
+        "position_vb": "569cf3ce",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "054897cb",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "fbc6440c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "6f5fb824"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1bc73384"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Near",
+        "root_vs": "",
+        "draw_vb": "f88066e2",
+        "position_vb": "f88066e2",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "d7d4be70",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Far",
+        "root_vs": "",
+        "draw_vb": "edc62c7c",
+        "position_vb": "edc62c7c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "3408dd4c",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
