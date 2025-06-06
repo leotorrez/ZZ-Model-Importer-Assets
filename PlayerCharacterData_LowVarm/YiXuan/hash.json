@@ -1,0 +1,268 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "36a68b27",
+        "position_vb": "cc898b44",
+        "blend_vb": "d7eb400e",
+        "texcoord_vb": "d4841137",
+        "ib": "ac8e9ee3",
+        "object_indexes": [
+            0,
+            21816
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "PatternMap",
+                    ".dds",
+                    "a07c45d1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "84fe943d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5574ca9f"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f4ac690c"
+                ],
+                [
+                    "GlowMap",
+                    ".dds",
+                    "c8150ef2"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "f922d854",
+        "position_vb": "155737d9",
+        "blend_vb": "3e629c05",
+        "texcoord_vb": "7af146a0",
+        "ib": "029c1f5a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "PatternMap",
+                    ".dds",
+                    "a07c45d1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d7db2bc6"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "96f754a7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "aa1056a5"
+                ],
+                [
+                    "GlowMap",
+                    ".dds",
+                    "c8150ef2"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "CoatLeg",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "73599fbb",
+        "position_vb": "9b67bc72",
+        "blend_vb": "0ff3af5a",
+        "texcoord_vb": "9f95d565",
+        "ib": "8c2fc05e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "PatternMap",
+                    ".dds",
+                    "a07c45d1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1fcedcc3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c4d167c3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fd56fa4b"
+                ],
+                [
+                    "GlowMap",
+                    ".dds",
+                    "c8150ef2"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bird",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ccbbb7ea",
+        "position_vb": "9052084b",
+        "blend_vb": "3ac6dfc7",
+        "texcoord_vb": "f45313a0",
+        "ib": "ce38ac3b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "677893d2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hairpin",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ba017cf3",
+        "position_vb": "3194141e",
+        "blend_vb": "de9d3ab7",
+        "texcoord_vb": "b3123168",
+        "ib": "892858fd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Bottle",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "d000beae",
+        "position_vb": "d0ff2c18",
+        "blend_vb": "55638d51",
+        "texcoord_vb": "f05da93a",
+        "ib": "0219df6e",
+        "object_indexes": [
+            0,
+            66
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Coin",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ddaf88bc",
+        "position_vb": "eaf79039",
+        "blend_vb": "ee9b9cfe",
+        "texcoord_vb": "9714e6e6",
+        "ib": "67c61080",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "8b067f99",
+        "object_indexes": [
+            0,
+            8262,
+            12720
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9efd1605"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]
