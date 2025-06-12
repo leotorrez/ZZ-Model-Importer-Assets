@@ -18,11 +18,6 @@
         "texture_hashes": [
             [
                 [
-                    "PatternMap",
-                    ".dds",
-                    "a07c45d1"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "84fe943d"
@@ -68,11 +63,6 @@
         "texture_hashes": [
             [
                 [
-                    "PatternMap",
-                    ".dds",
-                    "a07c45d1"
-                ],
-                [
                     "Diffuse",
                     ".dds",
                     "d7db2bc6"
@@ -101,7 +91,7 @@
         ]
     },
     {
-        "component_name": "CoatLeg",
+        "component_name": "Jacket",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "73599fbb",
         "position_vb": "9b67bc72",
@@ -116,11 +106,6 @@
         ],
         "texture_hashes": [
             [
-                [
-                    "PatternMap",
-                    ".dds",
-                    "a07c45d1"
-                ],
                 [
                     "Diffuse",
                     ".dds",
@@ -145,35 +130,6 @@
                     "GlowMap",
                     ".dds",
                     "c8150ef2"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Bird",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "ccbbb7ea",
-        "position_vb": "9052084b",
-        "blend_vb": "3ac6dfc7",
-        "texcoord_vb": "f45313a0",
-        "ib": "ce38ac3b",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "677893d2"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "798adba3"
                 ]
             ]
         ]
@@ -218,7 +174,7 @@
         ]
     },
     {
-        "component_name": "Coin",
+        "component_name": "Coins",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ddaf88bc",
         "position_vb": "eaf79039",
