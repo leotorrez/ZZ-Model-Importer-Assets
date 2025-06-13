@@ -21,9 +21,14 @@
                     "7a45adcd"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
-                    "9adc04ed"
+                    "f3c21e41"
                 ]
             ]
         ]
@@ -50,6 +55,11 @@
                     "Diffuse",
                     ".dds",
                     "9ee9b402"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
                 ],
                 [
                     "LightMap",
@@ -80,7 +90,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9ee9b402"
+                ]
+            ]
         ]
     },
     {

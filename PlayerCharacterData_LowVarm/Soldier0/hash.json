@@ -23,6 +23,11 @@
                     "8cb4086a"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "96a28554"
@@ -56,6 +61,11 @@
                     "Diffuse",
                     ".dds",
                     "0acef326"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
                 ],
                 [
                     "LightMap",

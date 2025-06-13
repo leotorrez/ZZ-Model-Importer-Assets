@@ -21,14 +21,19 @@
                     "8d83daba"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
-                    "1439d2b9"
+                    "9372e123"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "d665246d"
+                    "dd8c0b3a"
                 ]
             ]
         ]
@@ -55,14 +60,19 @@
                     "d8dc4645"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
-                    "6a80c2d8"
+                    "9a724295"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "decc28c5"
+                    "3678fad4"
                 ]
             ]
         ]

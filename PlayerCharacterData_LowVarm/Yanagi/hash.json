@@ -21,6 +21,11 @@
                     "4edb5c79"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
                     "5a43d985"
@@ -55,9 +60,14 @@
                     "c119dbd7"
                 ],
                 [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
                     "LightMap",
                     ".dds",
-                    "f60602ec"
+                    "3ffcef9e"
                 ],
                 [
                     "MaterialMap",
@@ -82,7 +92,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4edb5c79"
+                ]
+            ]
         ]
     },
     {
@@ -100,7 +116,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4edb5c79"
+                ]
+            ]
         ]
     },
     {
