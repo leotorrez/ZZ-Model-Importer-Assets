@@ -138,7 +138,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cae1373a"
+                ]
+            ]
         ]
     },
     {

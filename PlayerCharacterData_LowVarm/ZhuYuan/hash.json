@@ -84,7 +84,13 @@
             "B"
         ],
         "texture_hashes": [
-            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9b86c2f6"
+                ]
+            ],
             [
                 [
                     "Diffuse",
@@ -119,7 +125,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "222ae5ee"
+                ]
+            ]
         ]
     },
     {
@@ -137,7 +149,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "222ae5ee"
+                ]
+            ]
         ]
     },
     {

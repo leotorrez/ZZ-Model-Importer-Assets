@@ -71,7 +71,7 @@
         ]
     },
     {
-        "component_name": "Kettle",
+        "component_name": "Bottle",
         "root_vs": "9684c4091fc9e35a",
         "draw_vb": "fca2b042",
         "position_vb": "24282218",
@@ -85,7 +85,13 @@
             "A"
         ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "aa3c1147"
+                ]
+            ]
         ]
     },
     {
