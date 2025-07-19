@@ -102,126 +102,6 @@
         ]
     },
     {
-        "component_name": "Bottle",
-        "root_vs": "a0b21a8e787c5a98",
-        "draw_vb": "d000beae",
-        "position_vb": "d0ff2c18",
-        "blend_vb": "55638d51",
-        "texcoord_vb": "f05da93a",
-        "ib": "0219df6e",
-        "object_indexes": [
-            0,
-            66
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7e38b38b"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "086ac064"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "83b02982"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7e38b38b"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "086ac064"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "83b02982"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "BottleGlass",
-        "root_vs": "",
-        "draw_vb": "24481cb5",
-        "position_vb": "24481cb5",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "0fdae851",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            []
-        ]
-    },
-    {
-        "component_name": "Coins",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "ddaf88bc",
-        "position_vb": "eaf79039",
-        "blend_vb": "ee9b9cfe",
-        "texcoord_vb": "9714e6e6",
-        "ib": "67c61080",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7e38b38b"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "ebac056e"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "086ac064"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "83b02982"
-                ]
-            ]
-        ]
-    },
-    {
         "component_name": "Hairpin",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ba017cf3",
@@ -295,6 +175,147 @@
                     "MaterialMap",
                     ".dds",
                     "bb581f1e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bottle",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "05466ddf",
+        "position_vb": "8555098d",
+        "blend_vb": "d89da8eb",
+        "texcoord_vb": "ff4b112b",
+        "ib": "1630f2d0",
+        "object_indexes": [
+            0,
+            66
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7e38b38b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "086ac064"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "83b02982"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7e38b38b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "086ac064"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "83b02982"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "BottleInk",
+        "root_vs": "",
+        "draw_vb": "24481cb5",
+        "position_vb": "24481cb5",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "0fdae851",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7e38b38b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "086ac064"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "83b02982"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Coins",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ddaf88bc",
+        "position_vb": "eaf79039",
+        "blend_vb": "ee9b9cfe",
+        "texcoord_vb": "9714e6e6",
+        "ib": "67c61080",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7e38b38b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "086ac064"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "83b02982"
                 ]
             ]
         ]
