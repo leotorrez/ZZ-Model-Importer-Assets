@@ -23,12 +23,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "593a5947"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "79953d32"
+                    "1146c5c3"
                 ],
                 [
                     "MaterialMap",
@@ -62,17 +62,56 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "17d6e212"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "9cc2aaa0"
+                    "a32c39b9"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
                     "7fdee30d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Glasses",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "8db48e03",
+        "position_vb": "17682368",
+        "blend_vb": "16060a52",
+        "texcoord_vb": "e527157e",
+        "ib": "90bc5b0f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "69ed4d11"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1146c5c3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "b3034dff"
                 ]
             ]
         ]

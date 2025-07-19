@@ -22,47 +22,8 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "9ea4f898"
-                ],
-                [
-                    "LightMap",
                     ".dds",
-                    "99cfa935"
-                ],
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "f80b57f0"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Ring",
-        "root_vs": "9684c4091fc9e35a",
-        "draw_vb": "01864eed",
-        "position_vb": "fe235fbb",
-        "blend_vb": "07a1d434",
-        "texcoord_vb": "49188dc8",
-        "ib": "13c75775",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "ac5f6d76"
-                ],
-                [
-                    "NormalMap",
-                    ".jpg",
-                    "9ea4f898"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -100,13 +61,13 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "ccf55de4"
+                    ".dds",
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "08933e28"
+                    "616200aa"
                 ],
                 [
                     "MaterialMap",
@@ -117,13 +78,13 @@
         ]
     },
     {
-        "component_name": "Glasses",
-        "root_vs": "",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "2e92fc77",
+        "component_name": "Ring",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "01864eed",
+        "position_vb": "fe235fbb",
+        "blend_vb": "07a1d434",
+        "texcoord_vb": "49188dc8",
+        "ib": "13c75775",
         "object_indexes": [
             0
         ],
@@ -139,8 +100,47 @@
                 ],
                 [
                     "NormalMap",
-                    ".jpg",
-                    "9ea4f898"
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "99cfa935"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f80b57f0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Glasses",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "178a1ff8",
+        "position_vb": "8e3cf210",
+        "blend_vb": "6b5d6e39",
+        "texcoord_vb": "dd32963a",
+        "ib": "44d9123b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ac5f6d76"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -179,13 +179,7 @@
                     "95d9e92e"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "95d9e92e"
-                ]
-            ]
+            []
         ]
     }
 ]

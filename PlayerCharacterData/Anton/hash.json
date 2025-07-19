@@ -23,17 +23,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "b216f758"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "ee06579e"
+                    "41601dfa"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "24caeb1f"
+                    "d47c5823"
                 ]
             ]
         ]
@@ -62,17 +62,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "1b4ad5b7"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "17cf1b74"
+                    "ed6f4199"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "0238b0ff"
+                    "986c9716"
                 ]
             ]
         ]
@@ -101,12 +101,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "d7517d0e"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "886a664a"
+                    "ef7880e3"
                 ],
                 [
                     "MaterialMap",
@@ -114,6 +114,33 @@
                     "d36a2f7a"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "a0201907",
+        "object_indexes": [
+            0,
+            8256
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "842119d6"
+                ]
+            ],
+            []
         ]
     }
 ]

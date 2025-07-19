@@ -78,33 +78,6 @@
         ]
     },
     {
-        "component_name": "Face",
-        "root_vs": "",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "dcc7bb78",
-        "object_indexes": [
-            0,
-            8364
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "4524e91a"
-                ]
-            ],
-            []
-        ]
-    },
-    {
         "component_name": "Glasses",
         "root_vs": "9684c4091fc9e35a",
         "draw_vb": "62623b11",
@@ -165,6 +138,33 @@
                     "94aebd7e"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "dcc7bb78",
+        "object_indexes": [
+            0,
+            8364
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4524e91a"
+                ]
+            ],
+            []
         ]
     }
 ]

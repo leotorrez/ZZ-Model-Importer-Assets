@@ -35,7 +35,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "464847b3"
+                    "0b059f91"
                 ]
             ],
             [
@@ -57,7 +57,7 @@
                 [
                     "MaterialMap",
                     ".dds",
-                    "464847b3"
+                    "0b059f91"
                 ]
             ]
         ]
@@ -108,10 +108,10 @@
         "position_vb": "",
         "blend_vb": "",
         "texcoord_vb": "",
-        "ib": "f2f539b8",
+        "ib": "e30ca87f",
         "object_indexes": [
             0,
-            690,
+            984,
             8442
         ],
         "object_classifications": [

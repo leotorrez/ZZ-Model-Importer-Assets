@@ -4,8 +4,8 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "d345e472",
         "position_vb": "7e7eee0d",
-        "blend_vb": "8d999156",
-        "texcoord_vb": "2cf242f4",
+        "blend_vb": "5fa50113",
+        "texcoord_vb": "abc95b03",
         "ib": "5a839fb2",
         "object_indexes": [
             0
@@ -23,17 +23,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "4a68ef99"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "929aca42"
+                    "74d66671"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "23b4c60d"
+                    "c6398bc8"
                 ]
             ]
         ]
@@ -62,17 +62,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "289f4c58"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "75e05cdc"
+                    "e1c1718f"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "50a0faea"
+                    "e58d9767"
                 ]
             ]
         ]
@@ -101,19 +101,46 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "289f4c58"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "75e05cdc"
+                    "e1c1718f"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "50a0faea"
+                    "e58d9767"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "a0c80593",
+        "object_indexes": [
+            0,
+            8406
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6d662824"
+                ]
+            ],
+            []
         ]
     }
 ]

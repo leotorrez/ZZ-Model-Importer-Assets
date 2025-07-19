@@ -23,12 +23,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "68d9644a"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "787659b9"
+                    "71993491"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1f8bd622"
                 ]
             ]
         ]
@@ -61,17 +66,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "c94bb3d6"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "2f88092e"
+                    "33e8af55"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "81db8cbe"
+                    "8ab5b59d"
                 ]
             ],
             [
@@ -83,17 +88,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "c94bb3d6"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "2f88092e"
+                    "33e8af55"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "81db8cbe"
+                    "8ab5b59d"
                 ]
             ],
             [
@@ -105,19 +110,46 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "c94bb3d6"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "2f88092e"
+                    "33e8af55"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "81db8cbe"
+                    "8ab5b59d"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "bb315c43",
+        "object_indexes": [
+            0,
+            8442
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "67821d9d"
+                ]
+            ],
+            []
         ]
     }
 ]
