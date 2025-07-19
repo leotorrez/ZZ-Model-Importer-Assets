@@ -111,6 +111,69 @@
         ]
     },
     {
+        "component_name": "Hat",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "2e2d67ae",
+        "position_vb": "0ee4a87c",
+        "blend_vb": "d141908c",
+        "texcoord_vb": "d569d88e",
+        "ib": "ff7e9b40",
+        "object_indexes": [
+            0,
+            5166
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f2433e17"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ddeaa4c3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "de553410"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c0928025"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7d3c4c3d"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "42fc25f0"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",
