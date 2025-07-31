@@ -1,290 +1,290 @@
 [
-	{
-		"component_name": "Hair",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "5661afc3",
-		"position_vb": "6c733c84",
-		"blend_vb": "a37c7537",
-		"texcoord_vb": "c8810832",
-		"ib": "69ad9d08",
-		"object_indexes": [
-			0,
-			5253
-		],
-		"object_classifications": [
-			"A",
-			"B"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"0fa60fe1"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"1a3b30ba"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"068aba7f"
-				]
-			],
-			[
-				[
-					"Diffuse",
-					".dds",
-					"0fa60fe1"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"1a3b30ba"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"068aba7f"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Body",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "da79199a",
-		"position_vb": "246b93e2",
-		"blend_vb": "66948a0f",
-		"texcoord_vb": "f60dbb9e",
-		"ib": "be5f4c7d",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"474c7aa2"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"855d9fa3"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"1fd24fd8"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Helmet",
-		"root_vs": "9684c4091fc9e35a",
-		"draw_vb": "66cc3370",
-		"position_vb": "637e5139",
-		"blend_vb": "31f19e78",
-		"texcoord_vb": "0d4e37c6",
-		"ib": "a0ed04de",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"a0be0ed3"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"8d9a16c7"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"0a99d9d5"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Snout",
-		"root_vs": "9684c4091fc9e35a",
-		"draw_vb": "9328313b",
-		"position_vb": "5fb8059e",
-		"blend_vb": "b4cf5b8d",
-		"texcoord_vb": "856c6618",
-		"ib": "272dd7f6",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"0fa60fe1"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"1a3b30ba"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"068aba7f"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Belt",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "7e98735e",
-		"position_vb": "90e47227",
-		"blend_vb": "9759ce48",
-		"texcoord_vb": "170cc13e",
-		"ib": "9b6370f6",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"0fa60fe1"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"1a3b30ba"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"068aba7f"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "RedCloth",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "fa7b1c96",
-		"position_vb": "2f5719df",
-		"blend_vb": "55decc93",
-		"texcoord_vb": "c789d6f4",
-		"ib": "1fe6e084",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"474c7aa2"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"855d9fa3"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"1fd24fd8"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Face",
-		"root_vs": "",
-		"draw_vb": "",
-		"position_vb": "",
-		"blend_vb": "",
-		"texcoord_vb": "",
-		"ib": "df3e3965",
-		"object_indexes": [
-			0,
-			6978,
-			8178
-		],
-		"object_classifications": [
-			"A",
-			"B",
-			"C"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"4e2d5baa"
-				]
-			],
-			[],
-			[]
-		]
-	}
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5661afc3",
+        "position_vb": "6c733c84",
+        "blend_vb": "a37c7537",
+        "texcoord_vb": "c8810832",
+        "ib": "69ad9d08",
+        "object_indexes": [
+            0,
+            5253
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0fa60fe1"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1a3b30ba"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "068aba7f"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0fa60fe1"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1a3b30ba"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "068aba7f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "da79199a",
+        "position_vb": "246b93e2",
+        "blend_vb": "66948a0f",
+        "texcoord_vb": "f60dbb9e",
+        "ib": "be5f4c7d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "474c7aa2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "855d9fa3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1fd24fd8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Helmet",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "66cc3370",
+        "position_vb": "637e5139",
+        "blend_vb": "31f19e78",
+        "texcoord_vb": "0d4e37c6",
+        "ib": "a0ed04de",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a0be0ed3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8d9a16c7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "0a99d9d5"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Snout",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "9328313b",
+        "position_vb": "5fb8059e",
+        "blend_vb": "b4cf5b8d",
+        "texcoord_vb": "856c6618",
+        "ib": "272dd7f6",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0fa60fe1"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1a3b30ba"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "068aba7f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Belt",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "7e98735e",
+        "position_vb": "90e47227",
+        "blend_vb": "9759ce48",
+        "texcoord_vb": "170cc13e",
+        "ib": "9b6370f6",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0fa60fe1"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1a3b30ba"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "068aba7f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "RedCloth",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "fa7b1c96",
+        "position_vb": "2f5719df",
+        "blend_vb": "55decc93",
+        "texcoord_vb": "c789d6f4",
+        "ib": "1fe6e084",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "474c7aa2"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "855d9fa3"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1fd24fd8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "df3e3965",
+        "object_indexes": [
+            0,
+            6978,
+            8178
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e2d5baa"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
 ]

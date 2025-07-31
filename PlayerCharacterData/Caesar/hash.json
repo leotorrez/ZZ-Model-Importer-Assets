@@ -1,107 +1,107 @@
 [
-	{
-		"component_name": "Hair",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "bb723235",
-		"position_vb": "6de24342",
-		"blend_vb": "c2417533",
-		"texcoord_vb": "72537fa3",
-		"ib": "7a8fa826",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"9ce3e80c"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"d5d3585b"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"350b827e"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Body",
-		"root_vs": "e8425f64cfb887cd",
-		"draw_vb": "622b5a8d",
-		"position_vb": "7b6d4dab",
-		"blend_vb": "8a3da083",
-		"texcoord_vb": "0ca81129",
-		"ib": "92061e5e",
-		"object_indexes": [
-			0
-		],
-		"object_classifications": [
-			"A"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"5e2cea1a"
-				],
-				[
-					"NormalMap",
-					".dds",
-					"ebac056e"
-				],
-				[
-					"LightMap",
-					".dds",
-					"6296d481"
-				],
-				[
-					"MaterialMap",
-					".dds",
-					"d5d89d5b"
-				]
-			]
-		]
-	},
-	{
-		"component_name": "Face",
-		"root_vs": "",
-		"draw_vb": "",
-		"position_vb": "",
-		"blend_vb": "",
-		"texcoord_vb": "",
-		"ib": "6caaeb53",
-		"object_indexes": [
-			0,
-			8610
-		],
-		"object_classifications": [
-			"A",
-			"B"
-		],
-		"texture_hashes": [
-			[
-				[
-					"Diffuse",
-					".dds",
-					"13098244"
-				]
-			],
-			[]
-		]
-	}
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "bb723235",
+        "position_vb": "6de24342",
+        "blend_vb": "c2417533",
+        "texcoord_vb": "72537fa3",
+        "ib": "7a8fa826",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9ce3e80c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d5d3585b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "350b827e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "622b5a8d",
+        "position_vb": "7b6d4dab",
+        "blend_vb": "8a3da083",
+        "texcoord_vb": "0ca81129",
+        "ib": "92061e5e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5e2cea1a"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6296d481"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d5d89d5b"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "6caaeb53",
+        "object_indexes": [
+            0,
+            8610
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "13098244"
+                ]
+            ],
+            []
+        ]
+    }
 ]
