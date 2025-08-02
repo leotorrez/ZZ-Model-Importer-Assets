@@ -23,7 +23,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "4ac1defe"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -62,7 +62,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "d81fb56e"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -101,7 +101,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -142,7 +142,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "4ac1defe"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -164,7 +164,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -203,7 +203,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "fb35b7e9"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -216,6 +216,33 @@
                     "58d5c840"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f1c241b7",
+        "object_indexes": [
+            0,
+            1056
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a1eabb9f"
+                ]
+            ],
+            []
         ]
     }
 ]

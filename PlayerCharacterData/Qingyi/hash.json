@@ -25,7 +25,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "2910fbd0"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -47,7 +47,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "2910fbd0"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -86,7 +86,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "542c6b04"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -99,6 +99,75 @@
                     "41054bb6"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Bottle",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "fca2b042",
+        "position_vb": "24282218",
+        "blend_vb": "807eb474",
+        "texcoord_vb": "1707933f",
+        "ib": "8e8426df",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1fa7e18e"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "35c2a022"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "41054bb6"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "f6e96452",
+        "object_indexes": [
+            0,
+            1458,
+            2586
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0b75cd32"
+                ]
+            ],
+            [],
+            []
         ]
     }
 ]

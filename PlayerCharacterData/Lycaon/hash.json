@@ -23,12 +23,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "9ad1782a"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "04d061fe"
+                    "f7daa6d9"
                 ],
                 [
                     "MaterialMap",
@@ -62,12 +62,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "9f43209f"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "814db5bf"
+                    "fbf5a9b5"
                 ],
                 [
                     "MaterialMap",
@@ -101,17 +101,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "8c1076d2"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "072e6786"
+                    "57b175c5"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "4a4ea6dc"
+                    "4b18f890"
                 ]
             ]
         ]
@@ -140,12 +140,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "9ad1782a"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "04d061fe"
+                    "f7daa6d9"
                 ],
                 [
                     "MaterialMap",
@@ -162,7 +162,7 @@
         "position_vb": "",
         "blend_vb": "",
         "texcoord_vb": "",
-        "ib": "7341e07b",
+        "ib": "6ffdfccb",
         "object_indexes": [
             0,
             10170
@@ -176,7 +176,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d14f3284"
+                    "7077ebb1"
                 ]
             ],
             []

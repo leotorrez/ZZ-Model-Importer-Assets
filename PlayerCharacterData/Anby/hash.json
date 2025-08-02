@@ -28,7 +28,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b54f2a3d"
+                    "057f3c55"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "790278b4"
                 ]
             ]
         ]
@@ -64,7 +69,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "7c24acc9"
+                    "59b123c2"
                 ],
                 [
                     "MaterialMap",
@@ -86,7 +91,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "7c24acc9"
+                    "59b123c2"
                 ],
                 [
                     "MaterialMap",

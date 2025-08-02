@@ -25,17 +25,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "846fab9a"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "8eddd041"
+                    "a22d2c2c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3a38f6f9"
+                    "7bb81a4f"
                 ]
             ],
             [
@@ -47,17 +47,17 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "846fab9a"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "8eddd041"
+                    "a22d2c2c"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3a38f6f9"
+                    "7bb81a4f"
                 ]
             ]
         ]
@@ -88,12 +88,12 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "1e794b69"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "993fe3e1"
+                    "895fa458"
                 ],
                 [
                     "MaterialMap",
@@ -105,12 +105,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "210b3ebf"
+                    "9c7057e8"
                 ],
                 [
                     "NormalMap",
                     ".dds",
-                    "06cb1413"
+                    "ebac056e"
                 ],
                 [
                     "LightMap",
@@ -123,6 +123,33 @@
                     "f176398a"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "4d60568b",
+        "object_indexes": [
+            0,
+            8874
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7459ecf4"
+                ]
+            ],
+            []
         ]
     }
 ]
