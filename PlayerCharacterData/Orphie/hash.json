@@ -1,0 +1,339 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9f1dfc45",
+        "position_vb": "83c4fcaf",
+        "blend_vb": "bb2a1769",
+        "texcoord_vb": "c721249c",
+        "ib": "6988bfcd",
+        "object_indexes": [
+            0,
+            34074
+        ],
+        "object_index_counts": [
+            34074,
+            6675
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ce52779f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "77abe83b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "94ed2491"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ce52779f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "77abe83b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "94ed2491"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d4b12374",
+        "position_vb": "e0269fbf",
+        "blend_vb": "b823fb44",
+        "texcoord_vb": "d31ae32f",
+        "ib": "a5eac582",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            27903
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c9bea5d7"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9a0406fe"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1daf926d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Legs",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "f7b4360a",
+        "position_vb": "b4e15dc4",
+        "blend_vb": "5ca9ed4e",
+        "texcoord_vb": "f74b4cea",
+        "ib": "80017921",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            8859
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd4120db"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a9ae84df"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "867ceb5b"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "MagusTail",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "fea2bd55",
+        "position_vb": "f4a39978",
+        "blend_vb": "203664d5",
+        "texcoord_vb": "f33946ec",
+        "ib": "3766fa59",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            8745
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92c6b20b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb65982e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "MagusNozzle",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "27b14e70",
+        "position_vb": "1da3dd37",
+        "blend_vb": "6fba1f7b",
+        "texcoord_vb": "5662dd65",
+        "ib": "389256d8",
+        "object_indexes": [
+            0,
+            4665
+        ],
+        "object_index_counts": [
+            4665,
+            36
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92c6b20b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb65982e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92c6b20b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb65982e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "MagusDrum",
+        "root_vs": "9684c4091fc9e35a",
+        "draw_vb": "49393f27",
+        "position_vb": "160ccb43",
+        "blend_vb": "17077e99",
+        "texcoord_vb": "43b63f81",
+        "ib": "2935f885",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            5652
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd80fa1d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "92c6b20b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "cb65982e"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "ed85f33b",
+        "object_indexes": [
+            0,
+            7248,
+            9582
+        ],
+        "object_index_counts": [
+            7248,
+            2334,
+            1032
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0df52ae7"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]
