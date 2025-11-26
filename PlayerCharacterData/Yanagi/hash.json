@@ -10,6 +10,9 @@
         "object_indexes": [
             0
         ],
+        "object_index_counts": [
+            29577
+        ],
         "object_classifications": [
             "A"
         ],
@@ -49,6 +52,9 @@
         "object_indexes": [
             0
         ],
+        "object_index_counts": [
+            840
+        ],
         "object_classifications": [
             "A"
         ],
@@ -82,11 +88,14 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "2fe26340",
         "position_vb": "7ff000de",
-        "blend_vb": "fd363c76",
+        "blend_vb": "b558d482",
         "texcoord_vb": "f4fbc5c0",
         "ib": "f478ee4c",
         "object_indexes": [
             0
+        ],
+        "object_index_counts": [
+            33459
         ],
         "object_classifications": [
             "A"
@@ -127,6 +136,9 @@
         "object_indexes": [
             0
         ],
+        "object_index_counts": [
+            372
+        ],
         "object_classifications": [
             "A"
         ],
@@ -166,6 +178,10 @@
         "object_indexes": [
             0,
             8616
+        ],
+        "object_index_counts": [
+            8616,
+            1050
         ],
         "object_classifications": [
             "A",
