@@ -1,0 +1,242 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "cc070c66",
+        "position_vb": "5c030eea",
+        "blend_vb": "0c183c3f",
+        "texcoord_vb": "06bea24e",
+        "ib": "904ecd0f",
+        "object_indexes": [
+            0,
+            26520
+        ],
+        "object_index_counts": [
+            26520,
+            5847
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2fcfee64"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8cd786f7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3f11dfd9"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2fcfee64"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8cd786f7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "3f11dfd9"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "8991360f",
+        "position_vb": "6eb68b62",
+        "blend_vb": "53661c9a",
+        "texcoord_vb": "712eb020",
+        "ib": "b3c6ea5a",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            49266
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f051c211"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4aca364a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f3f8895c"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hammer",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "953975c0",
+        "position_vb": "a28ba31c",
+        "blend_vb": "16e2d8ea",
+        "texcoord_vb": "b642db41",
+        "ib": "337a62c1",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            2208
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6c04b56d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "39dac70b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "95070f7f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Screen",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "2ef8be58",
+        "texcoord_vb": "",
+        "ib": "0b9bd38f",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            6
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "92e01314"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "EyeBrows",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "f5daa764",
+        "texcoord_vb": "",
+        "ib": "30ea5791",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            132
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c9b5c6ce"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "21299f88",
+        "texcoord_vb": "",
+        "ib": "1a2c8573",
+        "object_indexes": [
+            0,
+            2652,
+            9504
+        ],
+        "object_index_counts": [
+            2652,
+            6852,
+            2190
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c9b5c6ce"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]
