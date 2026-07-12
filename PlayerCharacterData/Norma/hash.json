@@ -1,0 +1,265 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "62c935b1",
+        "position_vb": "be624ee3",
+        "blend_vb": "0a09cb32",
+        "texcoord_vb": "18e12e3a",
+        "ib": "a2150d3b",
+        "object_indexes": [
+            0,
+            21237
+        ],
+        "object_index_counts": [
+            21237,
+            1560
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9593fbbd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fc98a89c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a0010ed7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6493d4d4"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9593fbbd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fc98a89c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a0010ed7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6493d4d4"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ab21b245",
+        "position_vb": "c149712f",
+        "blend_vb": "b10a84f3",
+        "texcoord_vb": "52235615",
+        "ib": "773f390c",
+        "object_indexes": [
+            0,
+            55002,
+            57966
+        ],
+        "object_index_counts": [
+            55002,
+            2964,
+            2964
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8dbb873b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "37da98f5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "13e85378"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fcb3bd07"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8dbb873b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "37da98f5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "13e85378"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fcb3bd07"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8dbb873b"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "37da98f5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "13e85378"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "fcb3bd07"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hat",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "152400a0",
+        "position_vb": "80f2a2aa",
+        "blend_vb": "accaa8fd",
+        "texcoord_vb": "6a8b4c03",
+        "ib": "bcc7e369",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            13680
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9593fbbd"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fc98a89c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a0010ed7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "6493d4d4"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyebrows",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "11747958",
+        "texcoord_vb": "",
+        "ib": "d3b2ed9a",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            174
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "007dc9ec"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "cf3ce0a2",
+        "texcoord_vb": "",
+        "ib": "4fafb136",
+        "object_indexes": [
+            0,
+            7356,
+            10332
+        ],
+        "object_index_counts": [
+            7356,
+            2976,
+            978
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "007dc9ec"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]
