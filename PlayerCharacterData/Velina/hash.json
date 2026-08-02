@@ -218,21 +218,48 @@
         ]
     },
     {
+        "component_name": "Eyebrows",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "f18dd23f",
+        "texcoord_vb": "",
+        "ib": "1914d1e4",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            168
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "93ce2562"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
-        "blend_vb": "98ecf569",
+        "blend_vb": "76fe8eed",
         "texcoord_vb": "",
-        "ib": "6cfb2498",
+        "ib": "2414f4b9",
         "object_indexes": [
             0,
-            7182,
+            7398,
             9888
         ],
         "object_index_counts": [
-            7182,
-            2706,
+            7398,
+            2490,
             1182
         ],
         "object_classifications": [
