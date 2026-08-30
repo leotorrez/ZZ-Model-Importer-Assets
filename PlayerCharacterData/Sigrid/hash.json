@@ -20,24 +20,66 @@
             "B"
         ],
         "texture_hashes": [
-            [],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0c4bea0f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "da6a6f0b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f5da0fcd"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0c4bea0f"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ebac056e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "da6a6f0b"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "f5da0fcd"
+                ]
+            ]
         ]
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "01b35c45",
-        "position_vb": "08c15b45",
-        "blend_vb": "8c0622d7",
-        "texcoord_vb": "f6474154",
-        "ib": "a23aa8a3",
+        "draw_vb": "d0bf0e87",
+        "position_vb": "e2a28287",
+        "blend_vb": "018ea72c",
+        "texcoord_vb": "08ddaed3",
+        "ib": "38daef11",
         "object_indexes": [
             0,
-            42759
+            42963
         ],
         "object_index_counts": [
-            42759,
+            42963,
             288
         ],
         "object_classifications": [
@@ -297,6 +339,48 @@
                     "MaterialMap",
                     ".dds",
                     "af950416"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Shield",
+        "root_vs": "a0b21a8e787c5a98",
+        "draw_vb": "914dcde9",
+        "position_vb": "fe91db45",
+        "blend_vb": "0bacf856",
+        "texcoord_vb": "cd92341a",
+        "ib": "d892c658",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            2256
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4fa99352"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "798adba3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "980d9016"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "1f036c21"
                 ]
             ]
         ]
