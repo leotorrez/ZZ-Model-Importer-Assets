@@ -69,17 +69,17 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "22ec622c",
-        "position_vb": "554d46cf",
-        "blend_vb": "7f6fe876",
-        "texcoord_vb": "5dcc6ee1",
-        "ib": "f57f3e40",
+        "draw_vb": "6a0d36f2",
+        "position_vb": "0929171b",
+        "blend_vb": "93b69961",
+        "texcoord_vb": "c24cc6a1",
+        "ib": "92cb56c9",
         "object_indexes": [
             0,
-            64092
+            64626
         ],
         "object_index_counts": [
-            64092,
+            64626,
             222
         ],
         "object_classifications": [
@@ -91,7 +91,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "0e408177"
+                    "bb0f08b9"
                 ],
                 [
                     "NormalMap",
@@ -101,19 +101,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "6102ae18"
+                    "0e9d14dc"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "cccb8109"
+                    "8240c688"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "0e408177"
+                    "bb0f08b9"
                 ],
                 [
                     "NormalMap",
@@ -123,12 +123,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "6102ae18"
+                    "0e9d14dc"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "cccb8109"
+                    "8240c688"
                 ]
             ]
         ]
@@ -136,17 +136,17 @@
     {
         "component_name": "Legs",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "96dc0a8e",
-        "position_vb": "fa9635bc",
-        "blend_vb": "ff05e5f9",
-        "texcoord_vb": "7c0db158",
-        "ib": "09a51ed3",
+        "draw_vb": "ea50e1d1",
+        "position_vb": "11fbd4a3",
+        "blend_vb": "3841a909",
+        "texcoord_vb": "14ab0adc",
+        "ib": "24a512cb",
         "object_indexes": [
             0,
-            15618
+            15546
         ],
         "object_index_counts": [
-            15618,
+            15546,
             114
         ],
         "object_classifications": [
@@ -158,7 +158,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "877b0ce6"
+                    "017c13e4"
                 ],
                 [
                     "NormalMap",
@@ -168,19 +168,19 @@
                 [
                     "LightMap",
                     ".dds",
-                    "baeb2662"
+                    "0a902460"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3b0c9e0a"
+                    "fb096287"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "877b0ce6"
+                    "017c13e4"
                 ],
                 [
                     "NormalMap",
@@ -190,12 +190,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "baeb2662"
+                    "0a902460"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3b0c9e0a"
+                    "fb096287"
                 ]
             ]
         ]
@@ -264,7 +264,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "877b0ce6"
+                    "017c13e4"
                 ],
                 [
                     "NormalMap",
@@ -274,12 +274,12 @@
                 [
                     "LightMap",
                     ".dds",
-                    "baeb2662"
+                    "0a902460"
                 ],
                 [
                     "MaterialMap",
                     ".dds",
-                    "3b0c9e0a"
+                    "fb096287"
                 ]
             ]
         ]

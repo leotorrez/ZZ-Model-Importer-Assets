@@ -69,17 +69,17 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "48288582",
-        "position_vb": "13c77c3a",
-        "blend_vb": "9bca83d8",
-        "texcoord_vb": "c55c57ce",
-        "ib": "241deac5",
+        "draw_vb": "df41c403",
+        "position_vb": "22d04ad5",
+        "blend_vb": "5ec5e567",
+        "texcoord_vb": "d637a74d",
+        "ib": "2cd6516a",
         "object_indexes": [
             0,
-            56376
+            56736
         ],
         "object_index_counts": [
-            56376,
+            56736,
             12534
         ],
         "object_classifications": [
