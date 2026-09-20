@@ -179,11 +179,11 @@
     },
     {
         "component_name": "Face",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "fc43d4db",
-        "position_vb": "c651479c",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
         "blend_vb": "3f418ccb",
-        "texcoord_vb": "c493b91c",
+        "texcoord_vb": "",
         "ib": "27966f80",
         "object_indexes": [
             0,
